@@ -33,12 +33,12 @@
     <string name="wont_go_quietly_album_name">Won\'t Go Quietly</string>
     <string name="tiesto_band">TIESTO</string>
     <string name="say_something_album_name">Say Something</string>
-    <string name="music_store_description_screen">This is a music store, you can search for albums, read album information by pressing the \'info\' button, and you can also buy an album by pressing the \'basket\' button.</string>
+    <string name="music_store_description_screen"> PAYMENT ACTIVITY \n\nThis is a music store, you can search for albums, read album information by pressing the \'info\' button, and you can also buy an album by pressing the \'basket\' button.</string>
     <string name="e_mail_login_spotify_settings">E-mail / Login</string>
     <string name="password_spotify_settings">Password</string>
     <string name="register_spotify_button_name">Register</string>
     <string name="login_spotify_button_name">Login</string>
-    <string name="settings_screen_description">The player will work on the integration with Spotify API by using Spotify Android SDK. The Spotify Android SDK makes it easy to add Spotify functionality to your Android app. The SDK contains two small footprint binary libraries packaged as Android archives (AAR): Spotify Authentication Library and Spotify Player Library. You will be able to sign in or create an account from within the app. An additional option would be logging in via a Facebook and Google account</string>
+    <string name="settings_screen_description">The player will work on the integration with Spotify API by using Spotify Android SDK. The Spotify Android SDK makes it easy to add Spotify functionality to your Android app. The SDK contains two small footprint binary libraries packaged as Android archives (AAR): Spotify Authentication Library and Spotify Player Library. You will be able to sign in or create an account from within the app. An additional option would be logging in via a Facebook and Google account anddddby using spotify premium you can listen to any music with many additional facility</string>
     <string name="login_via_facebook_settings_button_name">Login via Facebook</string>
     <string name="login_via_google_settings_button_name">Login via Google</string>
     <string name="current_song_name">Steam Powered Giraffe - Brass Goggles</string>
@@ -57,4 +57,5 @@
     <string name="Info_of_album_four">Info of album four</string>
     <string name="Added_to_Shopping_Cart">Added to Shopping Cart</string>
     <string name="thanks_for_buying">Thanks you for buying this song, please enjoy</string>
+    <string name="main_activity_description">This is the MAIN ACTIVITY of the app. You can listen to the music, access spotify store to purchase song, change the settings accordint to your convinence</string>
 </resources>
